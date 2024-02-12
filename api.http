@@ -2,5 +2,5 @@ POST http://localhost:8080/create_tag
 Content-Type: application/json
 
 {
-  "product_code": "123-456-7839"
+  "productCode": "123-456-7839"
 }
