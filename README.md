@@ -119,7 +119,7 @@ Caso tenha alguma dúvida confira este
 ## :page_facing_up: License
 
 This project is under the MIT license. See the
-[LICENSE](https://github.com/danielhessell/aluraflix-server/blob/master/LICENSE)
+[LICENSE](https://github.com/danielhessell/barcode-tags/blob/master/LICENSE)
 file for more details.
 
 ---
